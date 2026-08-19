@@ -28,7 +28,7 @@ TRAYCE는 매 끼니를 복잡하게 입력하지 않아도 되는 영양 기록
 
 | Today | 3-Day Insight | Settings |
 |:---:|:---:|:---:|
-| <img src="assets/trayce-home.png" width="420" alt="TRAYCE today dashboard" /> | <img src="assets/trayce-report.png" width="420" alt="TRAYCE nutrition report" /> | <img src="assets/trayce-settings.png" width="420" alt="TRAYCE settings" /> |
+| <img src="assets/trayce-home.png" width="280" alt="TRAYCE today dashboard" /> | <img src="assets/trayce-report.png" width="280" alt="TRAYCE nutrition report" /> | <img src="assets/trayce-settings.png" width="280" alt="TRAYCE settings" /> |
 
 ## Key Features
 
