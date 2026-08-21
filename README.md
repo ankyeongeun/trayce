@@ -31,10 +31,10 @@ Instead of demanding precise manual logging, TRAYCE focuses on a simpler daily q
 ## Video Demo
 
 <div align="center">
-  <a href="assets/trayce-instagram-ad.mp4">
+  <a href="https://github.com/ankyeongeun/trayce/raw/refs/heads/main/assets/trayce-instagram-ad.mp4">
     <img src="assets/trayce-instagram-ad-cover.png" width="320" alt="Watch the TRAYCE Instagram ad" />
   </a>
-  <p><sub>Click the preview to watch the TRAYCE Instagram ad with sound.</sub></p>
+  <p><sub>Click the preview to download and watch the TRAYCE Instagram ad with sound.</sub></p>
 </div>
 
 ## Key Features
