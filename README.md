@@ -5,7 +5,7 @@
   <p>Snap a meal to identify dishes and side dishes,<br />estimate calories and protein, and understand your daily nutrition.</p>
   <p>
     <img src="https://img.shields.io/badge/iOS-MVP-111111?style=flat-square&logo=apple&logoColor=white" alt="iOS MVP" />
-    <img src="https://img.shields.io/badge/TestFlight-In%20Testing-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="TestFlight" />
+    <img src="https://img.shields.io/badge/App%20Store-Review%20Submitted-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store review submitted" />
     <img src="https://img.shields.io/badge/Market-South%20Korea-1A2B20?style=flat-square" alt="South Korea" />
   </p>
 </div>
@@ -20,15 +20,13 @@ Instead of demanding precise manual logging, TRAYCE focuses on a simpler daily q
 
 ## Product Preview
 
-<div align="center">
-  <img src="assets/trayce-login-mobile.png" width="300" alt="TRAYCE login screen" />
-</div>
-
-<br />
-
-| Today | 3-Day Insight | Settings |
+| Photo Analysis | Food Breakdown | Daily Nutrition |
 |:---:|:---:|:---:|
-| <img src="assets/trayce-home.png" width="280" alt="TRAYCE today dashboard" /> | <img src="assets/trayce-report.png" width="280" alt="TRAYCE nutrition report" /> | <img src="assets/trayce-settings.png" width="280" alt="TRAYCE settings" /> |
+| <img src="assets/app-store/01-photo-analysis.png" width="280" alt="TRAYCE photo-based meal analysis" /> | <img src="assets/app-store/02-food-breakdown.png" width="280" alt="TRAYCE identified foods and calorie breakdown" /> | <img src="assets/app-store/03-daily-nutrition.png" width="280" alt="TRAYCE daily calorie and protein overview" /> |
+
+| 3-Day Insight | Meal History | Personal Goals |
+|:---:|:---:|:---:|
+| <img src="assets/app-store/04-three-day-insight.png" width="280" alt="TRAYCE three-day nutrition insight" /> | <img src="assets/app-store/05-meal-history.png" width="280" alt="TRAYCE meal history" /> | <img src="assets/app-store/06-personal-goals.png" width="280" alt="TRAYCE nutrition goals and settings" /> |
 
 ## Key Features
 
@@ -73,7 +71,7 @@ The interface prioritizes today's intake, a short three-day trend, and one reali
 
 - iOS MVP complete
 - Tested on physical devices and through TestFlight
-- Preparing the first App Store release
+- Submitted the first iOS release to App Store review
 - The initial version is free with a monthly photo-analysis allowance
 
 ## Role
