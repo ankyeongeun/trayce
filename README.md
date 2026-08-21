@@ -28,6 +28,15 @@ Instead of demanding precise manual logging, TRAYCE focuses on a simpler daily q
 |:---:|:---:|:---:|
 | <img src="assets/app-store/04-three-day-insight.png" width="280" alt="TRAYCE three-day nutrition insight" /> | <img src="assets/app-store/05-meal-history.png" width="280" alt="TRAYCE meal history" /> | <img src="assets/app-store/06-personal-goals.png" width="280" alt="TRAYCE nutrition goals and settings" /> |
 
+## Video Demo
+
+<div align="center">
+  <a href="assets/trayce-instagram-ad.mp4">
+    <img src="assets/trayce-instagram-ad-cover.png" width="320" alt="Watch the TRAYCE Instagram ad" />
+  </a>
+  <p><sub>Click the preview to watch the TRAYCE Instagram ad with sound.</sub></p>
+</div>
+
 ## Key Features
 
 - Photo-based recognition of meals and Korean side dishes
